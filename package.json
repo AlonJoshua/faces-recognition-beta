@@ -1,6 +1,6 @@
 {
   "name": "face_recognition",
-  "homepage": "https://github.com/AlonJoshua/faces-recognition-beta",
+  "homepage": "https://alonjoshua.github.io/faces-recognition-beta/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
