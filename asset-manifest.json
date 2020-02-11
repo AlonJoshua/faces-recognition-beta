@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/AlonJoshua/face-recognition/static/css/main.030c0844.chunk.css",
+    "main.js": "/AlonJoshua/face-recognition/static/js/main.f84794c5.chunk.js",
+    "main.js.map": "/AlonJoshua/face-recognition/static/js/main.f84794c5.chunk.js.map",
+    "runtime-main.js": "/AlonJoshua/face-recognition/static/js/runtime-main.a77bc16f.js",
+    "runtime-main.js.map": "/AlonJoshua/face-recognition/static/js/runtime-main.a77bc16f.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/AlonJoshua/face-recognition/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.bd192a4d.chunk.js": "/AlonJoshua/face-recognition/static/js/2.bd192a4d.chunk.js",
+    "static/js/2.bd192a4d.chunk.js.map": "/AlonJoshua/face-recognition/static/js/2.bd192a4d.chunk.js.map",
+    "index.html": "/AlonJoshua/face-recognition/index.html",
+    "precache-manifest.7867bfbd45d9e65db6e53f58c4f4ced2.js": "/AlonJoshua/face-recognition/precache-manifest.7867bfbd45d9e65db6e53f58c4f4ced2.js",
+    "service-worker.js": "/AlonJoshua/face-recognition/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/AlonJoshua/face-recognition/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.030c0844.chunk.css.map": "/AlonJoshua/face-recognition/static/css/main.030c0844.chunk.css.map",
+    "static/js/2.bd192a4d.chunk.js.LICENSE": "/AlonJoshua/face-recognition/static/js/2.bd192a4d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a77bc16f.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.bd192a4d.chunk.js",
+    "static/css/main.030c0844.chunk.css",
+    "static/js/main.f84794c5.chunk.js"
+  ]
+}
