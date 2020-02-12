@@ -2,7 +2,7 @@ Post a url of a picture and our app will find where there is a human face in it.
 
 This is the front-end part project. 
 
-Instruction:
+Instructions:
 1) Download Face-Recognition.
 2) run npm install
 3) install npm packages (clarifai, react-particles-js, react-tilt, tachyons)
