@@ -4,5 +4,6 @@ This is the front-end part project.
 
 Instruction:
 1) Download Face-Recognition.
-2) run npm install in both.
-3) run npm start in both.
+2) run npm install
+3) install npm packages (clarifai, react-particles-js, react-tilt, tachyons)
+4) run npm start
